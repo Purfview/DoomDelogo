@@ -1,2 +1,24 @@
-# DoomDelogo
-DoomDelogo plugin for AviSynth+
+<pre><code>##================================================================================================##
+#                                                                                                  #
+#                   ____                        ____       __                                      #
+#                  / __ \____  ____  ____ ___  / __ \___  / /___  ____ _____                       #
+#                 / / / / __ \/ __ \/ __ `__ \/ / / / _ \/ / __ \/ __ `/ __ \                      #
+#                / /_/ / /_/ / /_/ / / / / / / /_/ /  __/ / /_/ / /_/ / /_/ /                      #
+#               /_____/\____/\____/_/ /_/ /_/_____/\___/_/\____/\__, /\____/                       #
+#                                                              /____/                              #
+#                                                                                                  #
+##================================================================================================##
+
+
+#  DoomDelogo is a state of the no-art wobbly watermark remover.
+# Maybe more than 95% of various commercial and pseudo-free apps use such method.
+
+
+##================================================================================================##
+</code></pre>
+
+<pre><code> 
+Requirement: AviSynth+ ( https://github.com/AviSynth/AviSynthPlus )
+</code></pre>
+
+Forum: https://forum.doom9.org/showthread.php?t=184881
